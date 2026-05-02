@@ -1,22 +1,45 @@
-# Giovanna Rosace
-**Computer Engineer | MSc in Graphics & Multimedia 🥽 @PoliTo**
-
-I am a Computer Engineer specializing in **VR/AR, Machine Learning, and Computer Vision**. I enjoy building immersive 3D experiences, training ML models that understand visual data, and architecting robust software systems—from high-level mobile/web interfaces to low-level kernel routines.
-
-<p align="left">
-  <a href="mailto:rosacegiovanna@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/g-rosace/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<!-- Typing SVG - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Computer+Engineer+%F0%9F%A5%BD;VR%2FAR+%26+Digital+Twin+Developer;Machine+Learning+%26+Computer+Vision;MSc+Graphics+%26+Multimedia+%40+PoliTo&font=Fira+Code&center=true&width=500&height=45&color=007ACC&vCenter=true&pause=1000&size=20" />
   </a>
 </p>
+<!-- Social icons -->
+<p align="center">
+  <a href="mailto:rosacegiovanna@gmail.com"><img width="64px" alt="Email" title="Email" src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/g-rosace/"><img width="64px" alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+</p>
+<br/>
+
+I enjoy building immersive 3D experiences, training ML models that understand visual data, and architecting robust software systems—from high-level mobile/web interfaces to low-level kernel routines.
+
 
 ### 🛠️ Core Technologies
-*   **VR/AR, 3D & Digital Twins:** Unreal Engine, Unity, C#, Xsens (Motion Capture), OpenGL.
-*   **Machine Learning & Vision:** Python, OpenCV, YOLO, PyTorch, Deep Learning pipelines.
-*   **Systems & Embedded:** C, C++, ARM Architecture, Bare-metal programming.
-*   **Software Eng & Web:** Kotlin, Spring Boot, React.js, Node.js, Agile, CI/CD, TDD.
+*   **VR/AR, 3D & Digital Twins:** 
+    <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?logo=unreal-engine&logoColor=white"></a>
+    <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white"></a>
+    <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4.svg?logo=opengl&logoColor=white"></a>
+    <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&logoColor=white"></a>
+    <a href="#"><img alt="Xsens" src="https://img.shields.io/badge/Xsens%20Motion%20Capture-0078D4.svg?logoColor=white"></a>
+*   **Machine Learning & Vision:** 
+<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
+    <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?logoColor=black"></a>
+    <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+
+*   **Systems & Embedded:** 
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white"></a>
+    <a href="#"><img alt="ARM" src="https://img.shields.io/badge/ARM-0091BD.svg?logo=arm&logoColor=white"></a>
+*   **Software Eng & Web:** <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
+    <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
+    <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
+    <a href="#"><img alt="Agile" src="https://img.shields.io/badge/Agile-0052CC.svg?logo=jira&logoColor=white"></a>
+    <a href="#"><img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF.svg?logo=github-actions&logoColor=white"></a>
 
 ---
 
@@ -51,10 +74,3 @@ I am a Computer Engineer specializing in **VR/AR, Machine Learning, and Computer
 ### 💡 Personal Projects
 
 *   🚧 *Currently brainstorming and working on new ideas... stay tuned!*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gnnrsc&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gnnrsc&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC" alt="Top Languages" width="48%" />
-</p>
