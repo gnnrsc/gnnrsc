@@ -21,8 +21,8 @@
   <text x="26" y="267" class="desc">
     <tspan x="26" dy="0">Role-based educational task management</tspan>
     <tspan x="26" dy="26">web application demonstrating full-</tspan>
-    <tspan x="26" dy="26">stack architecture with <tspan fill="#ffd33d">React</tspan> and</tspan>
-    <tspan x="26" dy="26"><tspan fill="#ffd33d">Node.js</tspan>.</tspan>
+    <tspan x="26" dy="26">stack architecture with <tspan fill="#e5c07b">React</tspan> and</tspan>
+    <tspan x="26" dy="26"><tspan fill="#e5c07b">Node.js</tspan>.</tspan>
     
   </text>
 </svg>

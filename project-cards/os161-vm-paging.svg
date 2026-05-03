@@ -20,8 +20,8 @@
   <text x="26" y="235" class="desc">
     <tspan x="26" dy="0">Built a complete demand paging VM</tspan>
     <tspan x="26" dy="26">system with a 9MB swapfile and</tspan>
-    <tspan x="26" dy="26">hardware TLB management for a <tspan fill="#ffd33d">MIPS</tspan></tspan>
-    <tspan x="26" dy="26">kernel in <tspan fill="#ffd33d">C</tspan>.</tspan>
+    <tspan x="26" dy="26">hardware TLB management for a <tspan fill="#e5c07b">MIPS</tspan></tspan>
+    <tspan x="26" dy="26">kernel in <tspan fill="#e5c07b">C</tspan>.</tspan>
     
   </text>
 </svg>

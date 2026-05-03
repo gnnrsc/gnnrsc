@@ -19,9 +19,9 @@
   </text>
   <text x="26" y="235" class="desc">
     <tspan x="26" dy="0">Dual project featuring advanced</tspan>
-    <tspan x="26" dy="26"><tspan fill="#ffd33d">Blender</tspan> mesh modeling and an</tspan>
+    <tspan x="26" dy="26"><tspan fill="#e5c07b">Blender</tspan> mesh modeling and an</tspan>
     <tspan x="26" dy="26">interactive 3D game developed from</tspan>
-    <tspan x="26" dy="26">scratch using <tspan fill="#ffd33d">C++</tspan> and <tspan fill="#ffd33d">OpenGL</tspan>.</tspan>
+    <tspan x="26" dy="26">scratch using <tspan fill="#e5c07b">C++</tspan> and <tspan fill="#e5c07b">OpenGL</tspan>.</tspan>
     
   </text>
 </svg>
