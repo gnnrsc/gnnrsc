@@ -54,13 +54,13 @@ class ProjectParser:
 
     def generate_svg(self, full_repo_path: str, title: str, description: str, image_url: str) -> str:
         """Genera il codice SVG e lo salva come file locale"""
-        from xml.sax.saxutils import escape # Per pulire il testo in modo sicuro
-        
-        # Usiamo solo il nome della repo per il nome del file (es. DriveAcademyVR.svg)
-        file_name = full_repo_path.split('/')[-1]
+        from xml.sax.saxutils import escape # Per pulire il testo
+        import base64
+        import urllib.request
 
+        # 1. FIX TESTO: Riduciamo la larghezza a 35 caratteri per evitare che sbordi
         description = description or "Nessuna descrizione fornita."
-        lines = textwrap.wrap(description, width=45)
+        lines = textwrap.wrap(description, width=35)
         
         if len(lines) > 4:
             lines = lines[:4]
@@ -68,12 +68,28 @@ class ProjectParser:
             
         tspan_elements = ""
         for line in lines:
-            # Uso escape() per gestire & < > automaticamente
             clean_line = escape(line)
             tspan_elements += f'<tspan x="18" dy="18">{clean_line}</tspan>\n    '
 
         clean_title = escape(title)
 
+        # 2. FIX IMMAGINE: Convertiamo l'URL in un'immagine integrata Base64
+        b64_image_data = ""
+        if image_url:
+            try:
+                # Scarichiamo l'immagine fingendoci un browser per evitare blocchi
+                req = urllib.request.Request(image_url, headers={'User-Agent': 'Mozilla/5.0'})
+                with urllib.request.urlopen(req) as response:
+                    img_data = response.read()
+                    b64_encoded = base64.b64encode(img_data).decode('utf-8')
+                    # Determiniamo se è png o jpg
+                    mime = "image/jpeg" if ".jpg" in image_url.lower() or ".jpeg" in image_url.lower() else "image/png"
+                    # Creiamo la stringa dati che l'SVG può leggere
+                    b64_image_data = f"data:{mime};base64,{b64_encoded}"
+            except Exception as e:
+                print(f"Errore nel download dell'immagine {image_url}: {e}")
+
+        # Creazione dell'SVG
         svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="{self._card_width}" height="320" viewBox="0 0 {self._card_width} 320">
   <defs>
     <clipPath id="image-clip">
@@ -85,7 +101,10 @@ class ProjectParser:
     </style>
   </defs>
   <rect x="0" y="0" width="{self._card_width}" height="320" rx="{self._border_radius}" ry="{self._border_radius}" fill="{self._background_color}" stroke="#30363d" stroke-width="1.5"/>
-  <image href="{image_url}" x="0" y="0" width="{self._card_width}" height="180" preserveAspectRatio="xMidYMid slice" clip-path="url(#image-clip)"/>
+  
+  <!-- Qui ora usiamo b64_image_data invece di image_url -->
+  <image href="{b64_image_data}" x="0" y="0" width="{self._card_width}" height="180" preserveAspectRatio="xMidYMid slice" clip-path="url(#image-clip)"/>
+  
   <line x1="0" y1="180" x2="{self._card_width}" y2="180" stroke="#30363d" stroke-width="1.5" />
   <text x="18" y="215" class="title">{clean_title}</text>
   <text x="18" y="235" class="desc">
@@ -93,7 +112,8 @@ class ProjectParser:
   </text>
 </svg>"""
 
-        # Salva il file usando file_name invece dell'intero path (che contiene / e romperebbe il sistema)
+        # Salva il file (usando solo il nome finale della repo)
+        file_name = full_repo_path.split('/')[-1]
         file_path = os.path.join(self._cards_dir, f"{file_name}.svg")
         with open(file_path, "w", encoding="utf-8") as f:
             f.write(svg_content)
