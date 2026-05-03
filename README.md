@@ -76,4 +76,5 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 *   🚧 *Currently brainstorming and working on new ideas... stay tuned!*
 
 <!-- BEGIN PROJECT-CARDS -->
+
 <!-- END PROJECT-CARDS -->
