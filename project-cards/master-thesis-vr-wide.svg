@@ -1,23 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="280" viewBox="0 0 880 280">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="240" viewBox="0 0 880 240">
   <defs>
-    <clipPath id="left-clip"><path d="M 10 0 L 380 0 L 380 280 L 10 280 A 10 10 0 0 1 0 270 L 0 10 A 10 10 0 0 1 10 0 Z"/></clipPath>
+    <clipPath id="left-clip"><path d="M 10 0 L 380 0 L 380 240 L 10 240 A 10 10 0 0 1 0 230 L 0 10 A 10 10 0 0 1 10 0 Z"/></clipPath>
     <style>
-      .title { font-family: -apple-system, sans-serif; font-weight: 600; font-size: 28px; fill: #58a6ff; }
-      .desc { font-family: -apple-system, sans-serif; font-weight: 400; font-size: 20px; fill: #8b949e; }
+      .title { font-family: -apple-system, sans-serif; font-weight: 600; font-size: 24px; fill: #58a6ff; }
+      .desc { font-family: -apple-system, sans-serif; font-weight: 400; font-size: 16px; fill: #8b949e; }
     </style>
   </defs>
-  <rect width="880" height="280" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
-  <image href="" width="380" height="280" preserveAspectRatio="xMidYMid slice" clip-path="url(#left-clip)"/>
-  <line x1="380" y1="0" x2="380" y2="280" stroke="#30363d" stroke-width="1.5"/>
-  <text y="60" class="title"><tspan x="410" dy="0">Digital Twin and Virtual Reality</tspan>
-<tspan x="410" dy="34">for Ergonomic Analysis</tspan>
+  <rect width="880" height="240" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <image href="" width="380" height="240" preserveAspectRatio="xMidYMid slice" clip-path="url(#left-clip)"/>
+  <line x1="380" y1="0" x2="380" y2="240" stroke="#30363d" stroke-width="1.5"/>
+  <text y="50" class="title"><tspan x="410" dy="0">Digital Twin and Virtual Reality for</tspan>
+<tspan x="410" dy="28">Ergonomic Analysis</tspan>
 </text>
-  <text y="129" class="desc"><tspan x="410" dy="0">Developed a high-fidelity VR Digital Twin of</tspan>
-<tspan x="410" dy="26">an automotive assembly line using **Unreal</tspan>
-<tspan x="410" dy="26">Engine<tspan fill="#e5c07b">. Integrated </tspan>Xsens motion capture</tspan>
-<tspan x="410" dy="26">suits** to map, track, and record realistic</tspan>
-<tspan x="410" dy="26">human movements to perform ergonomic analyses</tspan>
-<tspan x="410" dy="26">and simulations directly within the virtual</tspan>
-<tspan x="410" dy="26">environment.</tspan>
+  <text y="103" class="desc"><tspan x="410" dy="0">Developed a high-fidelity <tspan fill="#e5c07b">VR</tspan> <tspan fill="#e5c07b">Digital</tspan> <tspan fill="#e5c07b">Twin</tspan> of an</tspan>
+<tspan x="410" dy="22">automotive assembly line using <tspan fill="#e5c07b">Unreal</tspan> <tspan fill="#e5c07b">Engine</tspan>. Integrated</tspan>
+<tspan x="410" dy="22"><tspan fill="#e5c07b">Xsens</tspan> <tspan fill="#e5c07b">motion</tspan> <tspan fill="#e5c07b">capture</tspan> <tspan fill="#e5c07b">suits</tspan> to map, track, and</tspan>
+<tspan x="410" dy="22">record realistic human movements to perform ergonomic analyses</tspan>
+<tspan x="410" dy="22">and simulations directly within the virtual environment.</tspan>
 </text>
 </svg>
