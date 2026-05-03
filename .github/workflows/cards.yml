@@ -1,0 +1,30 @@
+name: Update Project Cards
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *" # Aggiorna ogni giorno
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Profile
+        uses: actions/checkout@v4
+
+      # ECCO LA MAGIA: Qui l'utente richiama la TUA action!
+      - name: Generate Cards using gnnrsc's Action
+        uses: gnnrsc/readme-project-cards@main
+        with:
+          github_username: "gnnrsc" # L'utente metterà il suo nome qui
+          projects_config: "projects-config.json"
+
+      # Infine l'utente fa il commit dei file generati nel proprio profilo
+      - name: Commit and Push changes
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: "GitHub Actions"
+          message: "docs(readme): Update Project cards"
+          add: "."
