@@ -1,52 +1,72 @@
 [
   {
-    "full_repo_path": "SalvatoreGiugliano98/DriveAcademyVR",
-    "image_url": "https://i.imgur.com/0uVwkoZ.png",
-    "custom_description": "A Meta Quest 3 driving school application featuring a virtual instructor with real-time vocal feedback. It integrates realistic physics, a diegetic dashboard UI, and haptic feedback to provide a safe, immersive environment for practicing road rules."
+    "section_title": "#### 🥽 VR/AR & 3D Graphics",
+    "projects": [
+      {
+        "full_repo_path": "SalvatoreGiugliano98/DriveAcademyVR",
+        "image_url": "https://i.imgur.com/0uVwkoZ.png",
+        "custom_description": "A Meta Quest 3 driving school application featuring a virtual instructor with real-time vocal feedback. It integrates realistic physics, a diegetic dashboard UI, and haptic feedback to provide a safe, immersive environment for practicing road rules."
+      },
+      {
+        "full_repo_path": "gnnrsc/VrBody",
+        "image_url": "",
+        "custom_description": "Virtual Reality project focusing on body tracking and user embodiment mechanics."
+      },
+      {
+        "full_repo_path": "SalvatoreGiugliano98/Computer-Graphics",
+        "image_url": "",
+        "custom_description": "Dual project featuring advanced Blender mesh modeling and an interactive 3D game developed from scratch using C++ and OpenGL."
+      }
+    ]
   },
   {
-    "full_repo_path": "gnnrsc/VrBody",
-    "image_url": "",
-    "custom_description": "Virtual Reality project focusing on body tracking and user embodiment mechanics."
+    "section_title": "#### 🧠 Machine Learning & Computer Vision",
+    "projects": [
+      {
+        "full_repo_path": "SalvatoreGiugliano98/CanoaSlalom",
+        "image_url": "",
+        "custom_description": "AI-based analysis of athlete trajectories at the Ivrea Canoa Club slalom stadium. Implemented YOLO (Ultralytics) for real-time tracking and detection."
+      },
+      {
+        "full_repo_path": "SalvatoreGiugliano98/FaceVerification",
+        "image_url": "",
+        "custom_description": "iOS application developed in Unity utilizing iPhone LiDAR sensors for biometric identity verification. Engineered a robust facial recognition pipeline."
+      },
+      {
+        "full_repo_path": "Frads01/mlvm-noise-remover",
+        "image_url": "",
+        "custom_description": "Engineered an advanced Self-Supervised Learning system for audio denoising using a 20-layer Deep Complex U-Net."
+      }
+    ]
   },
   {
-    "full_repo_path": "SalvatoreGiugliano98/Computer-Graphics",
-    "image_url": "",
-    "custom_description": "Dual project featuring advanced Blender mesh modeling and an interactive 3D game developed from scratch using C++ and OpenGL."
+    "section_title": "#### 📱 Software Engineering & Web Architecture",
+    "projects": [
+      {
+        "full_repo_path": "SalvatoreGiugliano98/my-museum-adventure-main",
+        "image_url": "",
+        "custom_description": "Interactive mobile application built with Kotlin, designed to gamify the museum visitor experience."
+      },
+      {
+        "full_repo_path": "gnnrsc/educational-task-management-system",
+        "image_url": "",
+        "custom_description": "Role-based educational task management web application demonstrating full-stack architecture with React and Node.js."
+      },
+      {
+        "full_repo_path": "gnnrsc/ezelectronics",
+        "image_url": "",
+        "custom_description": "Full-stack e-commerce management system. Focused on robust API specifications, comprehensive unit and integration testing."
+      }
+    ]
   },
   {
-    "full_repo_path": "SalvatoreGiugliano98/CanoaSlalom",
-    "image_url": "",
-    "custom_description": "AI-based analysis of athlete trajectories at the Ivrea Canoa Club slalom stadium. Implemented YOLO (Ultralytics) for real-time tracking and detection to evaluate performance and provide technical support for athletes."
-  },
-  {
-    "full_repo_path": "SalvatoreGiugliano98/FaceVerification",
-    "image_url": "",
-    "custom_description": "iOS application developed in Unity utilizing iPhone LiDAR sensors for biometric identity verification. It leverages depth-sensing data and deep learning to engineer a robust, spatial-aware facial recognition pipeline."
-  },
-  {
-    "full_repo_path": "Frads01/mlvm-noise-remover",
-    "image_url": "",
-    "custom_description": "Engineered an advanced Self-Supervised Learning system for audio denoising using a 20-layer Deep Complex U-Net. By implementing the Noise2Noise methodology, the model learns to reconstruct high-quality musical signals training exclusively on noisy data, overcoming the lack of clean datasets."
-  },
-  {
-    "full_repo_path": "SalvatoreGiugliano98/my-museum-adventure-main",
-    "image_url": "",
-    "custom_description": "Interactive mobile application built with Kotlin, designed to gamify the museum visitor experience."
-  },
-  {
-    "full_repo_path": "gnnrsc/educational-task-management-system",
-    "image_url": "",
-    "custom_description": "Role-based educational task management web application demonstrating full-stack architecture with React and Node.js."
-  },
-  {
-    "full_repo_path": "gnnrsc/ezelectronics",
-    "image_url": "",
-    "custom_description": "Full-stack e-commerce management system. Focused on robust API specifications, comprehensive unit and integration testing, and structured requirements engineering."
-  },
-  {
-    "full_repo_path": "midious/os161-vm-paging",
-    "image_url": "",
-    "custom_description": "Built a complete demand paging VM system with a 9MB swapfile and hardware TLB management for a MIPS kernel in C."
+    "section_title": "#### ⚙️ Low-Level Systems",
+    "projects": [
+      {
+        "full_repo_path": "midious/os161-vm-paging",
+        "image_url": "",
+        "custom_description": "Built a complete demand paging VM system with a 9MB swapfile and hardware TLB management for a MIPS kernel in C."
+      }
+    ]
   }
 ]
