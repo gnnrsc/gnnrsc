@@ -76,5 +76,5 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 *   🚧 *Currently brainstorming and working on new ideas... stay tuned!*
 
 <!-- BEGIN PROJECT-CARDS -->
-[![DriveAcademyVR](project-cards/DriveAcademyVR.svg "DriveAcademyVR")](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
+[![DriveAcademyVR](project-cards/DriveAcademyVR.svg "DriveAcademyVR")](https://github.com/SalvatoreGiugliano98/DriveAcademyVR) [![Computer-Graphics](project-cards/Computer-Graphics.svg "Computer-Graphics")](https://github.com/SalvatoreGiugliano98/Computer-Graphics) [![CanoaSlalom](project-cards/CanoaSlalom.svg "CanoaSlalom")](https://github.com/SalvatoreGiugliano98/CanoaSlalom) [![FaceVerification](project-cards/FaceVerification.svg "FaceVerification")](https://github.com/SalvatoreGiugliano98/FaceVerification) [![mlvm-noise-remover](project-cards/mlvm-noise-remover.svg "mlvm-noise-remover")](https://github.com/Frads01/mlvm-noise-remover)
 <!-- END PROJECT-CARDS -->
