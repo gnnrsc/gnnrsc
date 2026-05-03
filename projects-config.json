@@ -37,17 +37,17 @@
     "projects": [
       {
         "full_repo_path": "SalvatoreGiugliano98/CanoaSlalom",
-        "image_url": "",
+        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/CanoaSlalom.png",
         "custom_description": "AI-based analysis of athlete trajectories at the Ivrea Canoa Club slalom stadium. Implemented **YOLO** (Ultralytics) for real-time tracking and detection."
       },
       {
         "full_repo_path": "SalvatoreGiugliano98/FaceVerification",
-        "image_url": "",
+        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/FaceVerification.png",
         "custom_description": "iOS application developed in **Unity** utilizing iPhone **LiDAR** sensors for biometric identity verification. Engineered a robust facial recognition pipeline."
       },
       {
         "full_repo_path": "Frads01/mlvm-noise-remover",
-        "image_url": "",
+        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/NoiseRemover.png",
         "custom_description": "Engineered an advanced Self-Supervised Learning system for audio denoising using a 20-layer **Deep** **Complex** **U-Net**."
       }
     ]
@@ -57,17 +57,17 @@
     "projects": [
       {
         "full_repo_path": "SalvatoreGiugliano98/my-museum-adventure-main",
-        "image_url": "",
+        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/MyMuseumAdventure.png",
         "custom_description": "Interactive mobile application built with **Kotlin**, designed to gamify the museum visitor experience."
       },
       {
         "full_repo_path": "gnnrsc/educational-task-management-system",
-        "image_url": "",
+        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/crea_compito.gif",
         "custom_description": "Role-based educational task management web application demonstrating full-stack architecture with **React** and **Node.js**."
       },
       {
         "full_repo_path": "gnnrsc/ezelectronics",
-        "image_url": "",
+        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/ezelectronics.jpg",
         "custom_description": "Full-stack e-commerce management system. Focused on robust API specifications, comprehensive unit and integration testing."
       }
     ]
@@ -77,7 +77,7 @@
     "projects": [
       {
         "full_repo_path": "midious/os161-vm-paging",
-        "image_url": "",
+        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/os161.png",
         "custom_description": "Built a complete demand paging VM system with a 9MB swapfile and hardware TLB management for a **MIPS** kernel in **C**."
       }
     ]
