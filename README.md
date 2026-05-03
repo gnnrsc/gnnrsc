@@ -76,5 +76,23 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 *   🚧 *Currently brainstorming and working on new ideas... stay tuned!*
 
 <!-- BEGIN PROJECT-CARDS -->
-[![DriveAcademyVR](project-cards/DriveAcademyVR.svg "DriveAcademyVR")](https://github.com/SalvatoreGiugliano98/DriveAcademyVR) [![Computer-Graphics](project-cards/Computer-Graphics.svg "Computer-Graphics")](https://github.com/SalvatoreGiugliano98/Computer-Graphics) [![CanoaSlalom](project-cards/CanoaSlalom.svg "CanoaSlalom")](https://github.com/SalvatoreGiugliano98/CanoaSlalom) [![FaceVerification](project-cards/FaceVerification.svg "FaceVerification")](https://github.com/SalvatoreGiugliano98/FaceVerification) [![mlvm-noise-remover](project-cards/mlvm-noise-remover.svg "mlvm-noise-remover")](https://github.com/Frads01/mlvm-noise-remover)
+#### 🥽 VR/AR & 3D Graphics
+<br>
+
+[![DriveAcademyVR](project-cards/DriveAcademyVR.svg "DriveAcademyVR")](https://github.com/SalvatoreGiugliano98/DriveAcademyVR) [![Computer-Graphics](project-cards/Computer-Graphics.svg "Computer-Graphics")](https://github.com/SalvatoreGiugliano98/Computer-Graphics)
+
+#### 🧠 Machine Learning & Computer Vision
+<br>
+
+[![CanoaSlalom](project-cards/CanoaSlalom.svg "CanoaSlalom")](https://github.com/SalvatoreGiugliano98/CanoaSlalom) [![FaceVerification](project-cards/FaceVerification.svg "FaceVerification")](https://github.com/SalvatoreGiugliano98/FaceVerification) [![mlvm-noise-remover](project-cards/mlvm-noise-remover.svg "mlvm-noise-remover")](https://github.com/Frads01/mlvm-noise-remover)
+
+#### 📱 Software Engineering & Web Architecture
+<br>
+
+[![my-museum-adventure-main](project-cards/my-museum-adventure-main.svg "my-museum-adventure-main")](https://github.com/SalvatoreGiugliano98/my-museum-adventure-main) [![educational-task-management-system](project-cards/educational-task-management-system.svg "educational-task-management-system")](https://github.com/gnnrsc/educational-task-management-system) [![ezelectronics](project-cards/ezelectronics.svg "ezelectronics")](https://github.com/gnnrsc/ezelectronics)
+
+#### ⚙️ Low-Level Systems
+<br>
+
+[![os161-vm-paging](project-cards/os161-vm-paging.svg "os161-vm-paging")](https://github.com/midious/os161-vm-paging)
 <!-- END PROJECT-CARDS -->
