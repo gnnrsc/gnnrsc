@@ -18,10 +18,10 @@
     
   </text>
   <text x="26" y="235" class="desc">
-    <tspan x="26" dy="0">A Meta Quest 3 driving app integrating</tspan>
-    <tspan x="26" dy="26">realistic physics, diegetic UI,</tspan>
-    <tspan x="26" dy="26">haptics, and a real-time vocal virtual</tspan>
-    <tspan x="26" dy="26">instructor.</tspan>
+    <tspan x="26" dy="0">A <tspan fill="#ffd33d">Meta</tspan> <tspan fill="#ffd33d">Quest</tspan> <tspan fill="#ffd33d">3</tspan> driving app</tspan>
+    <tspan x="26" dy="26">integrating realistic physics,</tspan>
+    <tspan x="26" dy="26">diegetic UI, haptics, and a real-time</tspan>
+    <tspan x="26" dy="26">vocal virtual instructor.</tspan>
     
   </text>
 </svg>

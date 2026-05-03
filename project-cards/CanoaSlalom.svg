@@ -20,7 +20,7 @@
   <text x="26" y="235" class="desc">
     <tspan x="26" dy="0">AI-based analysis of athlete</tspan>
     <tspan x="26" dy="26">trajectories at the Ivrea Canoa Club</tspan>
-    <tspan x="26" dy="26">slalom stadium. Implemented YOLO</tspan>
+    <tspan x="26" dy="26">slalom stadium. Implemented <tspan fill="#ffd33d">YOLO</tspan></tspan>
     <tspan x="26" dy="26">(Ultralytics) for real-time tracking</tspan>
     <tspan x="26" dy="26">and detection.</tspan>
     

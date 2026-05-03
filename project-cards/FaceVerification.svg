@@ -18,8 +18,8 @@
     
   </text>
   <text x="26" y="235" class="desc">
-    <tspan x="26" dy="0">iOS application developed in Unity</tspan>
-    <tspan x="26" dy="26">utilizing iPhone LiDAR sensors for</tspan>
+    <tspan x="26" dy="0">iOS application developed in <tspan fill="#ffd33d">Unity</tspan></tspan>
+    <tspan x="26" dy="26">utilizing iPhone <tspan fill="#ffd33d">LiDAR</tspan> sensors for</tspan>
     <tspan x="26" dy="26">biometric identity verification.</tspan>
     <tspan x="26" dy="26">Engineered a robust facial recognition</tspan>
     <tspan x="26" dy="26">pipeline.</tspan>

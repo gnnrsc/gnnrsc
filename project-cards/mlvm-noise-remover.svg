@@ -20,7 +20,8 @@
   <text x="26" y="235" class="desc">
     <tspan x="26" dy="0">Engineered an advanced Self-Supervised</tspan>
     <tspan x="26" dy="26">Learning system for audio denoising</tspan>
-    <tspan x="26" dy="26">using a 20-layer Deep Complex U-Net.</tspan>
+    <tspan x="26" dy="26">using a 20-layer <tspan fill="#ffd33d">Deep</tspan> <tspan fill="#ffd33d">Complex</tspan></tspan>
+    <tspan x="26" dy="26"><tspan fill="#ffd33d">U-Net</tspan>.</tspan>
     
   </text>
 </svg>

@@ -20,8 +20,8 @@
   </text>
   <text x="26" y="267" class="desc">
     <tspan x="26" dy="0">Interactive mobile application built</tspan>
-    <tspan x="26" dy="26">with Kotlin, designed to gamify the</tspan>
-    <tspan x="26" dy="26">museum visitor experience.</tspan>
+    <tspan x="26" dy="26">with <tspan fill="#ffd33d">Kotlin</tspan>, designed to gamify</tspan>
+    <tspan x="26" dy="26">the museum visitor experience.</tspan>
     
   </text>
 </svg>
