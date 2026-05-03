@@ -5,7 +5,7 @@
       {
         "full_repo_path": "SalvatoreGiugliano98/DriveAcademyVR",
         "image_url": "https://i.imgur.com/0uVwkoZ.png",
-        "custom_description": "A Meta Quest 3 driving school application featuring a virtual instructor with real-time vocal feedback. It integrates realistic physics, a diegetic dashboard UI, and haptic feedback to provide a safe, immersive environment for practicing road rules."
+        "custom_description": "A Meta Quest 3 driving app integrating realistic physics, diegetic UI, haptics, and a real-time vocal virtual instructor."
       },
       {
         "full_repo_path": "gnnrsc/VrBody",
