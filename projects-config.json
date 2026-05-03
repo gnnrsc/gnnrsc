@@ -8,7 +8,7 @@
         "custom_title": "Digital Twin and Virtual Reality for Ergonomic Analysis",
         "custom_url": "https://webthesis.biblio.polito.it/39926/",
         "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/tesi-preview.gif", 
-        "custom_description": "Developed a high-fidelity VR Digital Twin of an automotive assembly line using **Unreal Engine**. Integrated **Xsens motion capture suits** to map, track, and record realistic human movements to perform ergonomic analyses and simulations directly within the virtual environment."
+        "custom_description": "Developed a high-fidelity **VR** **Digital** **Twin** of an automotive assembly line using **Unreal** **Engine**. Integrated **Xsens** **motion** **capture** **suits** to map, track, and record realistic human movements to perform ergonomic analyses and simulations directly within the virtual environment."
       }
     ]
   },
