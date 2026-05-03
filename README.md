@@ -76,5 +76,5 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 *   🚧 *Currently brainstorming and working on new ideas... stay tuned!*
 
 <!-- BEGIN PROJECT-CARDS -->
-[![DriveAcademyVR](project-cards/DriveAcademyVR.svg "DriveAcademyVR")](https://github.com/SalvatoreGiugliano98/DriveAcademyVR)
+
 <!-- END PROJECT-CARDS -->
