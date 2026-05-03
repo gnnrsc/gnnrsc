@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="374" viewBox="0 0 400 374">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="348" viewBox="0 0 400 348">
   <defs>
     <clipPath id="image-clip">
       <path d="M 10 0 L 390 0 A 10 10 0 0 1 400 10 L 400 160 L 0 160 L 0 10 A 10 10 0 0 1 10 0 Z" />
@@ -9,19 +9,19 @@
     </style>
   </defs>
   
-  <rect x="0" y="0" width="400" height="374" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="400" height="348" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <image href="" x="0" y="0" width="400" height="160" preserveAspectRatio="xMidYMid slice" clip-path="url(#image-clip)"/>
   <line x1="0" y1="160" x2="400" y2="160" stroke="#30363d" stroke-width="1.5" />
   
-  <text x="26" y="210" class="title">
+  <text x="26" y="205" class="title">
     <tspan x="26" dy="0">os161-vm-paging</tspan>
     
   </text>
-  <text x="26" y="244" class="desc">
-    <tspan x="26" dy="0">Built a complete demand paging</tspan>
-    <tspan x="26" dy="30">VM system with a 9MB swapfile</tspan>
-    <tspan x="26" dy="30">and hardware TLB management for</tspan>
-    <tspan x="26" dy="30">a MIPS kernel in C.</tspan>
+  <text x="26" y="235" class="desc">
+    <tspan x="26" dy="0">Built a complete demand paging VM</tspan>
+    <tspan x="26" dy="26">system with a 9MB swapfile and</tspan>
+    <tspan x="26" dy="26">hardware TLB management for a MIPS</tspan>
+    <tspan x="26" dy="26">kernel in C.</tspan>
     
   </text>
 </svg>

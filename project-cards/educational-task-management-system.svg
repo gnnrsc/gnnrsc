@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="400" height="442" viewBox="0 0 400 442">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="380" viewBox="0 0 400 380">
   <defs>
     <clipPath id="image-clip">
       <path d="M 10 0 L 390 0 A 10 10 0 0 1 400 10 L 400 160 L 0 160 L 0 10 A 10 10 0 0 1 10 0 Z" />
@@ -9,21 +9,20 @@
     </style>
   </defs>
   
-  <rect x="0" y="0" width="400" height="442" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="0" y="0" width="400" height="380" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
   <image href="" x="0" y="0" width="400" height="160" preserveAspectRatio="xMidYMid slice" clip-path="url(#image-clip)"/>
   <line x1="0" y1="160" x2="400" y2="160" stroke="#30363d" stroke-width="1.5" />
   
-  <text x="26" y="210" class="title">
+  <text x="26" y="205" class="title">
     <tspan x="26" dy="0">educational-task-</tspan>
-    <tspan x="26" dy="38">management-system</tspan>
+    <tspan x="26" dy="32">management-system</tspan>
     
   </text>
-  <text x="26" y="282" class="desc">
-    <tspan x="26" dy="0">Role-based educational task</tspan>
-    <tspan x="26" dy="30">management web application</tspan>
-    <tspan x="26" dy="30">demonstrating full-stack</tspan>
-    <tspan x="26" dy="30">architecture with React and</tspan>
-    <tspan x="26" dy="30">Node.js.</tspan>
+  <text x="26" y="267" class="desc">
+    <tspan x="26" dy="0">Role-based educational task management</tspan>
+    <tspan x="26" dy="26">web application demonstrating full-</tspan>
+    <tspan x="26" dy="26">stack architecture with React and</tspan>
+    <tspan x="26" dy="26">Node.js.</tspan>
     
   </text>
 </svg>
