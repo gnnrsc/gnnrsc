@@ -75,7 +75,10 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 
 *   🚧 *Currently brainstorming and working on new ideas... stay tuned!*
 
-<!-- BEGIN PROJECT-CARDS -->
+<details>
+  <summary>Work in progress</summary>
+
+  <!-- BEGIN PROJECT-CARDS -->
 #### 🥽 VR/AR & 3D Graphics
 <br>
 
@@ -96,3 +99,6 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 
 <a href="https://github.com/midious/os161-vm-paging"><img src="project-cards/os161-vm-paging.svg" alt="os161-vm-paging" title="os161-vm-paging" width="32%"></a>
 <!-- END PROJECT-CARDS -->
+
+
+</details>
