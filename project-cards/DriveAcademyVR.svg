@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="320" viewBox="0 0 250 320">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="261" viewBox="0 0 400 261">
   <defs>
     <clipPath id="image-clip">
-      <path d="M 10 0 L 240 0 A 10 10 0 0 1 250 10 L 250 180 L 0 180 L 0 10 A 10 10 0 0 1 10 0 Z" />
+      <path d="M 10 0 L 390 0 A 10 10 0 0 1 400 10 L 400 150 L 0 150 L 0 10 A 10 10 0 0 1 10 0 Z" />
     </clipPath>
     <style>
       .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; font-size: 18px; fill: #58a6ff; }
@@ -9,19 +9,18 @@
     </style>
   </defs>
   
-  <rect x="0" y="0" width="250" height="320" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
-  <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAAXNSR0IB2cksfwAAASxQTFRFAAAA9GKE9V+B9l1/911/911/911/911/9l5/9WCC8WyL9GOE9mCB911/91x+91x+911/9WCB9WGC911/911+9l+B8G2N7nST9l6A91x+91x+9l6A9WGD9GKD911/911/9l6A9l6A9l1/91x+91x+9l1/9GGD9l+A911+911+9WKD82SF9l+A911/91x+9GOF9l1/9l1/726N9WCC91x+91x+9WCC9l6A911+9l1/9V+B9l1/9GOF9WCC911+91x+9WCC8WyM9l6A9l6A6YCe9l6A91x+9l5/911/916A911+9WGC9WGC6X+e9l+B91x+91x+9l5/8mWG9l6A91x+9WCC9GaG9l+B9l5/911/9l6A7HqZ9GCC9l6A911/91x+911/7HuZ91x+91x+T5z7EAAAAGR0Uk5TABRfvO//+diaPwUUO9///t1MF73kWgIBfv32cxIV0smAcrDz+Z0MMfDpFwdVzPoFOrgCN/LlLTTzvk65DBva/DwCjmoBlfh8c3vePz4BPOr7pgNh6zEDPZfbqAEcN0BAOQG/MHTEpb0AAAGhSURBVHic7ZNXU8JAFIVXOgoBUUBCCxhABSlKkxaKvaDYKIog/v//YG4ikoQlD46jM8yeF+695+yX2bsDQlKtaLQ6vcFoMq+iOa2aTUaDXqfVrM17U1mslCibfV3prdttX6bVsui8Y4P61qbTJbVczs2Zt+HAn3dveWYhivb6ZpbPS0ssz5YbC/AHBDvIhMLb/C8biU6daITlB9vhEBMUIgE/FhDbAXN3D6F4Yp+vkkxKNFJMkm/3E3GE9nYhsxPDAtLwGSoD5cFhli9zedHI5/gme3gAdQYybBoLKBTBPBKbEuy8XIGyUoZ3KYnzI8gUC1hAtQYmV28IXRO21YKqBbttCsNGnYNMrYoFHJ8IGzrNnJ3zuoB7X14hdH0J+7iA2VnmVIic3GABqH0rPhPHguAOdx2EOndwA2HEif5tG38e3T88Ugoln56Sytnjw/0CAHru9vq0PD0YyHu63+s+LzrP6+V1+DaSajyWtW/D13eV4/8j5YpkGkFipBohAAL4HcBETR8A+FCN/OW/Zsk1+ckzTgiAAAiAAAiAAAhgOQGfVmf82zuM+TIAAAAASUVORK5CYII=" x="0" y="0" width="250" height="180" preserveAspectRatio="xMidYMid slice" clip-path="url(#image-clip)"/>
-  <line x1="0" y1="180" x2="250" y2="180" stroke="#30363d" stroke-width="1.5" />
+  <rect x="0" y="0" width="400" height="261" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <image href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAMAAACdt4HsAAAAAXNSR0IB2cksfwAAASxQTFRFAAAA9GKE9V+B9l1/911/911/911/911/9l5/9WCC8WyL9GOE9mCB911/91x+91x+911/9WCB9WGC911/911+9l+B8G2N7nST9l6A91x+91x+9l6A9WGD9GKD911/911/9l6A9l6A9l1/91x+91x+9l1/9GGD9l+A911+911+9WKD82SF9l+A911/91x+9GOF9l1/9l1/726N9WCC91x+91x+9WCC9l6A911+9l1/9V+B9l1/9GOF9WCC911+91x+9WCC8WyM9l6A9l6A6YCe9l6A91x+9l5/911/916A911+9WGC9WGC6X+e9l+B91x+91x+9l5/8mWG9l6A91x+9WCC9GaG9l+B9l5/911/9l6A7HqZ9GCC9l6A911/91x+911/7HuZ91x+91x+T5z7EAAAAGR0Uk5TABRfvO//+diaPwUUO9///t1MF73kWgIBfv32cxIV0smAcrDz+Z0MMfDpFwdVzPoFOrgCN/LlLTTzvk65DBva/DwCjmoBlfh8c3vePz4BPOr7pgNh6zEDPZfbqAEcN0BAOQG/MHTEpb0AAAGhSURBVHic7ZNXU8JAFIVXOgoBUUBCCxhABSlKkxaKvaDYKIog/v//YG4ikoQlD46jM8yeF+695+yX2bsDQlKtaLQ6vcFoMq+iOa2aTUaDXqfVrM17U1mslCibfV3prdttX6bVsui8Y4P61qbTJbVczs2Zt+HAn3dveWYhivb6ZpbPS0ssz5YbC/AHBDvIhMLb/C8biU6daITlB9vhEBMUIgE/FhDbAXN3D6F4Yp+vkkxKNFJMkm/3E3GE9nYhsxPDAtLwGSoD5cFhli9zedHI5/gme3gAdQYybBoLKBTBPBKbEuy8XIGyUoZ3KYnzI8gUC1hAtQYmV28IXRO21YKqBbttCsNGnYNMrYoFHJ8IGzrNnJ3zuoB7X14hdH0J+7iA2VnmVIic3GABqH0rPhPHguAOdx2EOndwA2HEif5tG38e3T88Ugoln56Sytnjw/0CAHru9vq0PD0YyHu63+s+LzrP6+V1+DaSajyWtW/D13eV4/8j5YpkGkFipBohAAL4HcBETR8A+FCN/OW/Zsk1+ckzTgiAAAiAAAiAAAhgOQGfVmf82zuM+TIAAAAASUVORK5CYII=" x="0" y="0" width="400" height="150" preserveAspectRatio="xMidYMid slice" clip-path="url(#image-clip)"/>
+  <line x1="0" y1="150" x2="400" y2="150" stroke="#30363d" stroke-width="1.5" />
   
-  <text x="18" y="215" class="title">
+  <text x="18" y="180" class="title">
     <tspan x="18" dy="0">DriveAcademyVR</tspan>
     
   </text>
-  <text x="18" y="240" class="desc">
-    <tspan x="18" dy="0">A Meta Quest 3 driving app</tspan>
-    <tspan x="18" dy="18">integrating realistic physics,</tspan>
-    <tspan x="18" dy="18">diegetic UI, haptics, and a real-</tspan>
-    <tspan x="18" dy="18">time vocal virtual instructor.</tspan>
+  <text x="18" y="200" class="desc">
+    <tspan x="18" dy="0">A Meta Quest 3 driving app integrating realistic physics,</tspan>
+    <tspan x="18" dy="18">diegetic UI, haptics, and a real-time vocal virtual</tspan>
+    <tspan x="18" dy="18">instructor.</tspan>
     
   </text>
 </svg>

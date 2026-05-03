@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="250" height="337" viewBox="0 0 250 337">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="261" viewBox="0 0 400 261">
   <defs>
     <clipPath id="image-clip">
-      <path d="M 10 0 L 240 0 A 10 10 0 0 1 250 10 L 250 180 L 0 180 L 0 10 A 10 10 0 0 1 10 0 Z" />
+      <path d="M 10 0 L 390 0 A 10 10 0 0 1 400 10 L 400 150 L 0 150 L 0 10 A 10 10 0 0 1 10 0 Z" />
     </clipPath>
     <style>
       .title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; font-size: 18px; fill: #58a6ff; }
@@ -9,19 +9,17 @@
     </style>
   </defs>
   
-  <rect x="0" y="0" width="250" height="337" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
-  <image href="" x="0" y="0" width="250" height="180" preserveAspectRatio="xMidYMid slice" clip-path="url(#image-clip)"/>
-  <line x1="0" y1="180" x2="250" y2="180" stroke="#30363d" stroke-width="1.5" />
+  <rect x="0" y="0" width="400" height="261" rx="10" ry="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <image href="" x="0" y="0" width="400" height="150" preserveAspectRatio="xMidYMid slice" clip-path="url(#image-clip)"/>
+  <line x1="0" y1="150" x2="400" y2="150" stroke="#30363d" stroke-width="1.5" />
   
-  <text x="18" y="215" class="title">
+  <text x="18" y="180" class="title">
     <tspan x="18" dy="0">mlvm-noise-remover</tspan>
     
   </text>
-  <text x="18" y="240" class="desc">
-    <tspan x="18" dy="0">Engineered an advanced Self-</tspan>
-    <tspan x="18" dy="18">Supervised Learning system for</tspan>
-    <tspan x="18" dy="18">audio denoising using a 20-layer</tspan>
-    <tspan x="18" dy="18">Deep Complex U-Net.</tspan>
+  <text x="18" y="200" class="desc">
+    <tspan x="18" dy="0">Engineered an advanced Self-Supervised Learning system for</tspan>
+    <tspan x="18" dy="18">audio denoising using a 20-layer Deep Complex U-Net.</tspan>
     
   </text>
 </svg>
