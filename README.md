@@ -71,9 +71,9 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 *   **[OS/161 Virtual Memory Subsystem](https://github.com/midious/os161-vm-paging)** – Built a complete demand paging VM system with a 9MB swapfile and hardware TLB management for a MIPS kernel in C.
 *   **Bare-metal ARM Quoridor** – Developed a bare-metal implementation of the Quoridor board game on an ARM microcontroller, managing hardware interrupts and memory manually.
 
-### 💡 Personal Projects
+### 💡 Other Projects
 
-*   🚧 *Currently brainstorming and working on new ideas... stay tuned!*
+* 📌 *Feel free to check out my pinned repositories to explore more projects I've developed, both individually and as part of a team.*
 
 <details>
   <summary>Work in progress</summary>
