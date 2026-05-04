@@ -1,6 +1,8 @@
 [
   {
-    "section_title": "### 🎓 Master's Thesis",
+    "add_divider": true,
+    "group_title": "### 🎓 Master's Thesis",
+    "section_title": "",
     "projects": [
       {
         "id": "master-thesis-vr",
@@ -13,6 +15,8 @@
     ]
   },
   {
+    "add_divider": true,
+    "group_title": "### 🚀 Highlighted Portfolio",
     "section_title": "#### 🥽 VR/AR & 3D Graphics",
     "projects": [
       {
@@ -33,6 +37,8 @@
     ]
   },
   {
+    "add_divider": false,
+    "group_title": "",
     "section_title": "#### 🧠 Machine Learning & Computer Vision",
     "projects": [
       {
@@ -53,6 +59,8 @@
     ]
   },
   {
+    "add_divider": false,
+    "group_title": "",
     "section_title": "#### 📱 Software Engineering & Web Architecture",
     "projects": [
       {
@@ -73,6 +81,8 @@
     ]
   },
   {
+    "add_divider": false,
+    "group_title": "",
     "section_title": "#### ⚙️ Low-Level Systems",
     "projects": [
       {
