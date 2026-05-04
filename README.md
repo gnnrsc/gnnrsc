@@ -79,10 +79,15 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
   <summary>Work in progress</summary>
 
   <!-- BEGIN PROJECT-CARDS -->
+---
+
 ### 🎓 Master's Thesis
-<br>
 
 <a href="https://webthesis.biblio.polito.it/39926/"><img src="project-cards/master-thesis-vr-wide.svg" alt="Digital Twin and Virtual Reality for Ergonomic Analysis" title="Digital Twin and Virtual Reality for Ergonomic Analysis" width="100%"></a><br><br>
+
+---
+
+### 🚀 Highlighted Portfolio
 
 #### 🥽 VR/AR & 3D Graphics
 <br>
