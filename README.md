@@ -19,25 +19,33 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 *   **VR/AR, 3D & Digital Twins:** 
     <a href="#"><img alt="Unreal Engine" src="https://img.shields.io/badge/Unreal%20Engine-313131.svg?logo=unreal-engine&logoColor=white"></a>
     <a href="#"><img alt="Unity" src="https://img.shields.io/badge/Unity-100000.svg?logo=unity&logoColor=white"></a>
-    <a href="#"><img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=csharp&logoColor=white"></a>
+    <a href="#"><img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"></a>
     <a href="#"><img alt="OpenGL" src="https://img.shields.io/badge/OpenGL-5586A4.svg?logo=opengl&logoColor=white"></a>
     <a href="#"><img alt="Blender" src="https://img.shields.io/badge/Blender-F5792A.svg?logo=blender&logoColor=white"></a>
     <a href="#"><img alt="Xsens" src="https://img.shields.io/badge/Xsens%20Motion%20Capture-0078D4.svg?logoColor=white"></a>
+
 *   **Machine Learning & Vision:** 
-<a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
     <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
-    <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-00FFFF.svg?logoColor=black"></a>
+    <a href="#"><img alt="YOLO" src="https://img.shields.io/badge/YOLO-111F68.svg?logo=yolo&logoColor=white"></a>
     <a href="#"><img alt="Deep Learning" src="https://img.shields.io/badge/Deep%20Learning-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
 
 *   **Systems & Embedded:** 
     <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C.svg?logo=c&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++-00599C.svg?logo=cplusplus&logoColor=white"></a>
+    <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000.svg?logo=rust&logoColor=white"></a>
     <a href="#"><img alt="ARM" src="https://img.shields.io/badge/ARM-0091BD.svg?logo=arm&logoColor=white"></a>
-*   **Software Eng & Web:** <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
+
+*   **Software Eng & Web:** 
+    <a href="#"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
+    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF.svg?logo=kotlin&logoColor=white"></a>
+    <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB"></a>
     <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=nodedotjs&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-4479A1.svg?logo=mysql&logoColor=white"></a>
+    <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Agile" src="https://img.shields.io/badge/Agile-0052CC.svg?logo=jira&logoColor=white"></a>
     <a href="#"><img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF.svg?logo=github-actions&logoColor=white"></a>
 
