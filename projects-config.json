@@ -89,6 +89,11 @@
         "full_repo_path": "midious/os161-vm-paging",
         "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/os161.png",
         "custom_description": "Built a complete demand paging VM system with a 9MB swapfile and hardware TLB management for a **MIPS** kernel in **C**."
+      },
+      {
+        "full_repo_path": "gnnrsc/embedded-quoridor-arm",
+        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/game.png",
+        "custom_description": "Bare-metal implementation of the Quoridor board game on an **ARM** microcontroller developed entirely in **C**, managing hardware interrupts, CAN bus communication, and memory manually."
       }
     ]
   }
