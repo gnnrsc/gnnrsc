@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <clipPath id="img-clip"><path d="M 10 0 L 390 0 A 10 10 0 0 1 400 10 L 400 160 L 0 160 L 0 10 A 10 10 0 0 1 10 0 Z"/></clipPath>
+    <style>
+      .title { font-family: -apple-system, sans-serif; font-weight: 600; font-size: 28px; fill: #58a6ff; }
+      .desc { font-family: -apple-system, sans-serif; font-weight: 400; font-size: 20px; fill: #8b949e; }
+    </style>
+  </defs>
+  <rect width="400" height="400" rx="10" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <image href="" width="400" height="160" preserveAspectRatio="xMidYMid slice" clip-path="url(#img-clip)"/>
+  <line y1="160" x2="400" y2="160" stroke="#30363d" stroke-width="1.5"/>
+  <text x="26" y="205" class="title"><tspan x="26" dy="0">embedded-quoridor-arm</tspan>
+</text>
+  <text x="26" y="235" class="desc"><tspan x="26" dy="0">Bare-metal implementation of the</tspan>
+<tspan x="26" dy="26">Quoridor board game on an <tspan fill="#e5c07b">ARM</tspan></tspan>
+<tspan x="26" dy="26">microcontroller developed entirely in</tspan>
+<tspan x="26" dy="26"><tspan fill="#e5c07b">C</tspan>, managing hardware interrupts,</tspan>
+<tspan x="26" dy="26">CAN bus communication, and memory</tspan>
+<tspan x="26" dy="26">manually.</tspan>
+</text>
+</svg>

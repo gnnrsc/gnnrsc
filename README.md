@@ -115,7 +115,7 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 #### ⚙️ Low-Level Systems
 <br>
 
-<a href="https://github.com/midious/os161-vm-paging"><img src="project-cards/midious-os161-vm-paging.svg" alt="os161-vm-paging" title="os161-vm-paging" width="32%"></a>
+<a href="https://github.com/midious/os161-vm-paging"><img src="project-cards/midious-os161-vm-paging.svg" alt="os161-vm-paging" title="os161-vm-paging" width="32%"></a> <a href="https://github.com/gnnrsc/embedded-quoridor-arm"><img src="project-cards/gnnrsc-embedded-quoridor-arm.svg" alt="embedded-quoridor-arm" title="embedded-quoridor-arm" width="32%"></a>
 <!-- END PROJECT-CARDS -->
 <div align="center">
   <i>🚀 Want these dynamic portfolio cards on your profile? Get the GitHub Action at <a href="https://github.com/gnnrsc/readme-project-cards"><img alt="gnnrsc/readme-project-cards" src="https://img.shields.io/badge/gnnrsc/readme--project--cards-181717?logo=github&logoColor=white" valign="middle"></a></i>
