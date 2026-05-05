@@ -92,7 +92,7 @@
       },
       {
         "full_repo_path": "gnnrsc/embedded-quoridor-arm",
-        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/game.png",
+        "image_url": "https://raw.githubusercontent.com/gnnrsc/gnnrsc/main/images/game.jpg",
         "custom_description": "Bare-metal implementation of the Quoridor board game on an **ARM** microcontroller developed entirely in **C**, managing hardware interrupts, CAN bus communication, and memory manually."
       }
     ]
