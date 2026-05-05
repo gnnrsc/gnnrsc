@@ -88,3 +88,9 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 ### 💡 Other Projects
 
 * 📌 *Feel free to check out my pinned repositories to explore more projects I've developed, both individually and as part of a team.*
+
+<div align="center">
+  <br>
+  <b>Check them out below!</b><br>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Backhand%20Index%20Pointing%20Down.png" alt="Pointing Down" width="40" />
+</div>
