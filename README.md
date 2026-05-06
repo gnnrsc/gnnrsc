@@ -47,7 +47,6 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
     <a href="#"><img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?logo=springboot&logoColor=white"></a>
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white"></a>
     <a href="#"><img alt="Agile" src="https://img.shields.io/badge/Agile-0052CC.svg?logo=jira&logoColor=white"></a>
-    <a href="#"><img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-2088FF.svg?logo=github-actions&logoColor=white"></a>
 
   <!-- BEGIN PROJECT-CARDS -->
 ---
