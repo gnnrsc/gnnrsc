@@ -62,14 +62,22 @@ I enjoy building immersive 3D experiences, training ML models that understand vi
 #### 🥽 VR/AR & 3D Graphics
 <br>
 
+<a href="https://github.com/SalvatoreGiugliano98/DriveAcademyVR"><img src="project-cards/SalvatoreGiugliano98-DriveAcademyVR.svg" alt="DriveAcademyVR" title="DriveAcademyVR" width="32%"></a> <a href="https://github.com/SalvatoreGiugliano98/Computer-Graphics"><img src="project-cards/SalvatoreGiugliano98-Computer-Graphics.svg" alt="Computer-Graphics" title="Computer-Graphics" width="32%"></a>
+
 #### 🧠 Machine Learning & Computer Vision
 <br>
+
+<a href="https://github.com/SalvatoreGiugliano98/CanoaSlalom"><img src="project-cards/SalvatoreGiugliano98-CanoaSlalom.svg" alt="CanoaSlalom" title="CanoaSlalom" width="32%"></a> <a href="https://github.com/SalvatoreGiugliano98/FaceVerification"><img src="project-cards/SalvatoreGiugliano98-FaceVerification.svg" alt="FaceVerification" title="FaceVerification" width="32%"></a> <a href="https://github.com/Frads01/mlvm-noise-remover"><img src="project-cards/Frads01-mlvm-noise-remover.svg" alt="mlvm-noise-remover" title="mlvm-noise-remover" width="32%"></a>
 
 #### 📱 Software Engineering & Web Architecture
 <br>
 
+<a href="https://github.com/SalvatoreGiugliano98/my-museum-adventure-main"><img src="project-cards/SalvatoreGiugliano98-my-museum-adventure-main.svg" alt="my-museum-adventure-main" title="my-museum-adventure-main" width="32%"></a> <a href="https://github.com/gnnrsc/educational-task-management-system"><img src="project-cards/gnnrsc-educational-task-management-system.svg" alt="educational-task-management-system" title="educational-task-management-system" width="32%"></a> <a href="https://github.com/gnnrsc/ezelectronics"><img src="project-cards/gnnrsc-ezelectronics.svg" alt="ezelectronics" title="ezelectronics" width="32%"></a>
+
 #### ⚙️ Low-Level Systems
 <br>
+
+<a href="https://github.com/midious/os161-vm-paging"><img src="project-cards/midious-os161-vm-paging.svg" alt="os161-vm-paging" title="os161-vm-paging" width="32%"></a> <a href="https://github.com/gnnrsc/embedded-quoridor-arm"><img src="project-cards/gnnrsc-embedded-quoridor-arm.svg" alt="embedded-quoridor-arm" title="embedded-quoridor-arm" width="32%"></a>
 <!-- END PROJECT-CARDS -->
 <div align="center">
   <i>🚀 Want these dynamic portfolio cards on your profile? Get the GitHub Action at <a href="https://github.com/gnnrsc/readme-project-cards"><img alt="gnnrsc/readme-project-cards" src="https://img.shields.io/badge/gnnrsc/readme--project--cards-181717?logo=github&logoColor=white" valign="middle"></a></i>
